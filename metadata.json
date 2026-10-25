@@ -1,0 +1,6 @@
+{
+  "name": "ForexBias US News Analyzer",
+  "description": "Aplikasi penentu arah bias trading forex (Bullish/Bearish) berbasis rilis berita ekonomi Amerika (NFP, CPI, PPI, FOMC) dengan komparasi data dan alasan ringkas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
